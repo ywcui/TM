@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5043C93E00180E3B8B2C7065006BE7AF34CD97DB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "61bf13c8-9b53-8d4c-a6e3-8bc6b5c48631++5035" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5043C93E00180E3B8B2C7065006BE7AF34CD97DB" : 0,
+    "61bf13c8-9b53-8d4c-a6e3-8bc6b5c48631++5035" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A004A735-15BD-4CC6-BD0D-0ABFA6AFFA7A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5043C93E00180E3B8B2C7065006BE7AF34CD97DB" : "TM(1)\/",
+    "61bf13c8-9b53-8d4c-a6e3-8bc6b5c48631++5035" : "TM(1)\/TM\/MJRefresh\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TM",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TM.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ywcui\/TM.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5043C93E00180E3B8B2C7065006BE7AF34CD97DB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.8\/svn\/community",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "61bf13c8-9b53-8d4c-a6e3-8bc6b5c48631++5035"
+    }
+  ]
+}
